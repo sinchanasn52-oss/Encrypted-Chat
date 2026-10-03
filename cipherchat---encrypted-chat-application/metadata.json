@@ -1,0 +1,6 @@
+{
+  "name": "CipherChat - Encrypted Chat Application",
+  "description": "Encrypted Chat Application using AES-GCM and ECDH Key Exchange - College Cryptography Mini Project with real-time WebSocket communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
